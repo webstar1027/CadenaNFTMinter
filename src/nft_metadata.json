@@ -1,0 +1,74 @@
+[
+    {
+      "name": "Cadena #1",
+      "description": "Cadena NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/QmVTbNNh8VXtSKn5FVwzgpm7wAWXA7eMkFjWy972HvUqCi",
+      "dna": "b33913bdca65eca7b8331a60a16a91be409cf385",
+      "edition": 1,
+      "date": 1664411366816,
+      "artist": "Cadena",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "void"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "mars"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "Cadena #2",
+      "description": "Cadena NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/QmTUuLX32JXFrQS9Zj6u2NXKp8p3XbZswc9HbvAiL1cEgW",
+      "dna": "2fad631504b3953b14e99b5ca62698a8e0014417",
+      "edition": 2,
+      "date": 1664411368361,
+      "artist": "Cadena",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "galaxy"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "earth"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "Cadena #3",
+      "description": "Cadena NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/QmVyhiCt87DurL9dqJRoTnLFRTjybiL5w5qAXvv4ciFWTN",
+      "dna": "5a4d4e575666d661970e2f6e16a0159295381f17",
+      "edition": 3,
+      "date": 1664411369119,
+      "artist": "Cadena",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "void"
+        },
+        {
+          "trait_type": "Planet",
+          "value": "venus"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    }
+  ]
